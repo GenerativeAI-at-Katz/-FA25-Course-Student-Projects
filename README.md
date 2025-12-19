@@ -1,2 +1,2 @@
-# Future-of-AI-Work-FA25-Cohort
+#Course: Future-of-AI-and-Work
 Portfolio of Student Assignments
